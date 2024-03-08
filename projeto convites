@@ -3,15 +3,19 @@
 esse foi o projeto onde eu aprendi a fazer um covite de casamento e outros
 projeto iniciado dentro de sala de aula
 
-
 <h1>convite de casamento </h1>
-<h2>convidamos vc e sua familia para celebrar conosco esse dia tão especial</h2>
+<img src="./imagem de passara na internet.jpg" alt="imagem de passaro" width="900" height="30">
+<p></p>
+<img src="./festa casamento1.jpg" alt="festa casamento1" width="600" height="200">
 <hr>
+
 
 <!--criando um convite de casamento -->
 <p></p>
-<img src="./imagem de passara na internet.jpg" alt="imagem de passaro">
-<p> o que dar de presente?</p>
+<img src="./imagem de passara na internet.jpg" alt="imagem de passaro" width="900" height="30">
+<h2>convidamos vc e sua familia para celebrar conosco esse dia tão especial</h2>
+<hr>
+<p> o que voce pode dar  de presente?</p>
 <ol>
     <li>voce pode dar um presente em dinheiro se quiser (pix - 41999064421)</li>
     <li>voce pode dar algum dos presentes que estão na lista de presentes (clique aqui para ver lista)</li>
